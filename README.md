@@ -11,5 +11,5 @@ array(
 
 2 - string origem: nome da origem a ser buscada. Exemplo: 'A'
 
-3- 
+3-  string destino: nome do destino a ser buscado. Exemplo: 'B'
 
