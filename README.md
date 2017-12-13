@@ -13,3 +13,15 @@ array(
 
 3-  string destino: nome do destino a ser buscado. Exemplo: 'B'
 
+___________________________________________________________________
+
+# Best Route Calculation in PHP
+
+Algorithm based on the Dijikstra algorithm that calculates the best route between two nodes and its distance.
+
+Use: Pass as parameters for the main function 3 arguments: 1 - array containing arrays with the name of the origin, destination, distance. Example: array (array ('A', 'B', 10), ...)
+
+2 - source string: name of the source to search. Example: 'A'
+
+3- destination string: name of the destination to be searched for. Example: 'B'
+
